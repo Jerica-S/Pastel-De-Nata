@@ -82,6 +82,10 @@ h1, h2, h3, nav{
     
 }
 
+h1:visited{
+    color: #8A2A1D;   
+}
+
 h1{
     display:inline;
     font-size: 7.3rem;
